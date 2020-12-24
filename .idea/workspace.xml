@@ -56,5 +56,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="trm" />
+    <option name="LAST_COMMIT_MESSAGE" value="trm" />
   </component>
 </project>
